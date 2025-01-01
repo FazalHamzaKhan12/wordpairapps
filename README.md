@@ -1,6 +1,8 @@
 # wordpairapp
 
-A new Flutter project.
+Flutter Crash Course
+https://www.youtube.com/watch?v=1gDhl4leEzA&t=2614s
+by Traversy Media
 
 ## Getting Started
 
