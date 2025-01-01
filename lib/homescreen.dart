@@ -30,7 +30,7 @@ class _HomescreenState extends State<Homescreen> {
 
       return Scaffold(
         appBar: AppBar(
-          title: const Text('Saved WorddPairs'),
+          title: const Text('Saved WordPairs'),
         ),
         body: ListView(children: divided),
       );
